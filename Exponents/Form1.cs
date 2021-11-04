@@ -47,11 +47,13 @@ namespace Exponents
         public int Square(int num)
         {
             // we will create this code in class
+            return 1;
         }
 
         public int Cube(int num)
         {
             // we will create this code in class
+            return 1;
         }
 
         private void xResetButton_Click(object sender, EventArgs e)
